@@ -115,3 +115,8 @@ footer {
     justify-content: center;
     color: white;
 }
+
+.section_item:hover{
+    height: 13vw;
+    margin: 0 4em 4em 4em;
+}
